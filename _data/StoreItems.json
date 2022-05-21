@@ -8617,11 +8617,863 @@
       "price": 1250
     },
     {
-      "abr": "zombrella",
+      "abr": "doormat",
+      "category": "Furniture",
+      "defname": "LT_DoorMatLeather",
+      "price": 8
+    },
+    {
+      "abr": "doormat(blue)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBlue",
+      "price": 8
+    },
+    {
+      "abr": "doormat(green)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatGreen",
+      "price": 8
+    },
+    {
+      "abr": "doormat(orange)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatOrange",
+      "price": 8
+    },
+    {
+      "abr": "doormat(red)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatRed",
+      "price": 8
+    },
+    {
+      "abr": "doormat(teal)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatTeal",
+      "price": 8
+    },
+    {
+      "abr": "largedoormat",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigLeather",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(blue)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigBlue",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(green)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigGreen",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(orange)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigOrange",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(red)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigRed",
+      "price": 13
+    },
+    {
+      "abr": "largedoormat(teal)",
+      "category": "Furniture",
+      "defname": "LT_DoorMatBigTeal",
+      "price": 13
+    },
+    {
+      "abr": "(100mm)br-412dap",
+      "category": "100mm shells",
+      "defname": "OneHundredShellAP",
+      "price": 104
+    },
+    {
+      "abr": "(100mm)oeaf1ap",
+      "category": "100mm shells",
+      "defname": "OneHundredmmShell",
+      "price": 52
+    },
+    {
+      "abr": "(105mm)dm23apfsds",
+      "category": "105mm shells",
+      "defname": "OneOFiveShellAP",
+      "price": 89
+    },
+    {
+      "abr": "(106mm)2xm344heat",
+      "category": "106mm shells",
+      "defname": "OneOSixShellHEAT",
+      "price": 171
+    },
+    {
+      "abr": "(120mm)tak120mmap",
+      "category": "120mm shells",
+      "defname": "TAKShell",
+      "price": 73
+    },
+    {
+      "abr": "(122mm)of-462he",
+      "category": "122mm shells",
+      "defname": "GvozdikaShell",
+      "price": 56
+    },
+    {
+      "abr": "(127mm)12.7cmsprgrhe",
+      "category": "127mm shells",
+      "defname": "TwelveSevenShell",
+      "price": 79
+    },
+    {
+      "abr": "(127mm)mk.64ap",
+      "category": "127mm shells",
+      "defname": "MarkSixtyFour",
+      "price": 82
+    },
+    {
+      "abr": "(127mm)type1he",
+      "category": "127mm shells",
+      "defname": "JOnetwentysevenShell",
+      "price": 97
+    },
+    {
+      "abr": "(150mm)15cmsprgrhe",
+      "category": "150mm shells",
+      "defname": "OneHundredFiftyShell",
+      "price": 123
+    },
+    {
+      "abr": "(150mm)igr33he",
+      "category": "150mm shells",
+      "defname": "SIGShellHE",
+      "price": 59
+    },
+    {
+      "abr": "(152mm)of-540he",
+      "category": "152mm shells",
+      "defname": "AkatsiyaShell",
+      "price": 96
+    },
+    {
+      "abr": "(155mm)m795he",
+      "category": "155mm shells",
+      "defname": "OneFiftyFiveShell",
+      "price": 103
+    },
+    {
+      "abr": "(203mm)20.3cmsprgrhe",
+      "category": "203mm shells",
+      "defname": "TwentyThreeShellHE",
+      "price": 180
+    },
+    {
+      "abr": "(20mm)20x20mmapimagazine",
+      "category": "20mm shells",
+      "defname": "FlakTwentyMag",
+      "price": 95
+    },
+    {
+      "abr": "(20mm)hs827ap",
+      "category": "20mm shells",
+      "defname": "RheinmetallTwentyMilShell",
+      "price": 5
+    },
+    {
+      "abr": "(25mm)pmb090apfsds",
+      "category": "25mm shells",
+      "defname": "SIDAMShell",
+      "price": 6
+    },
+    {
+      "abr": "(288mm)9.2inchmk.ihe",
+      "category": "288mm shells",
+      "defname": "NinePointTwoInchShellHE",
+      "price": 188
+    },
+    {
+      "abr": "(30mm)3uof8ap",
+      "category": "30mm shells",
+      "defname": "ShipunovShell",
+      "price": 8
+    },
+    {
+      "abr": "(30mm)hs831aap",
+      "category": "30mm shells",
+      "defname": "RardenShell",
+      "price": 8
+    },
+    {
+      "abr": "(30mm)sprgrap",
+      "category": "30mm shells",
+      "defname": "KugelblitzShell",
+      "price": 8
+    },
+    {
+      "abr": "(37mm)37mmpzgrap",
+      "category": "37mm shells",
+      "defname": "FlakThirtySeven",
+      "price": 10
+    },
+    {
+      "abr": "(40mm)5x40mmapclip",
+      "category": "40mm shells",
+      "defname": "BoforsClip",
+      "price": 44
+    },
+    {
+      "abr": "(40mm)m811ap",
+      "category": "40mm shells",
+      "defname": "LongFortyMilShell",
+      "price": 12
+    },
+    {
+      "abr": "(6pounder)shotmk-8t",
+      "category": "6Pdr (57mm) shells",
+      "defname": "SixPounderShellAP",
+      "price": 31
+    },
+    {
+      "abr": "(600mm)schwerebetongranatehe",
+      "category": "600mm shells",
+      "defname": "SixHundredMilShell",
+      "price": 592
+    },
+    {
+      "abr": "(75mm)jgr.18he",
+      "category": "75mm howitzer shells",
+      "defname": "leIGShellHE",
+      "price": 28
+    },
+    {
+      "abr": "(76mm)oto76mmap",
+      "category": "76mm shells",
+      "defname": "NavalSeventySix",
+      "price": 35
+    },
+    {
+      "abr": "(90mm)m82apcbc",
+      "category": "90mm shells",
+      "defname": "NinetyShellAP",
+      "price": 67
+    },
+    {
+      "abr": "100mmbs-3",
+      "category": "Security",
+      "defname": "Turret_BS3_Cannon",
+      "price": 1233
+    },
+    {
+      "abr": "128mmpak44",
+      "category": "Security",
+      "defname": "Turret_Pak44_Cannon",
+      "price": 1642
+    },
+    {
+      "abr": "128mmpzgr",
+      "category": "128mm shells",
+      "defname": "OneTwentyEightShellAP",
+      "price": 196
+    },
+    {
+      "abr": "15cmsig33",
+      "category": "Security",
+      "defname": "Turret_15cmSIG",
+      "price": 1925
+    },
+    {
+      "abr": "20mmflak38",
+      "category": "Security",
+      "defname": "Turret_Flak38_Autocannon",
+      "price": 567
+    },
+    {
+      "abr": "75mmleig18",
+      "category": "Security",
+      "defname": "Turret_75mmleIG",
+      "price": 1792
+    },
+    {
+      "abr": "75mmpak40",
+      "category": "Security",
+      "defname": "Turret_75mmCannon",
+      "price": 842
+    },
+    {
+      "abr": "75mmpzgr39",
+      "category": "75mm shells",
+      "defname": "SeventyFiveShellAP",
+      "price": 70
+    },
+    {
+      "abr": "88mmflak41",
+      "category": "Security",
+      "defname": "Turret_88mmCannon",
+      "price": 1017
+    },
+    {
+      "abr": "88mmpzgr39",
+      "category": "88mm shells",
+      "defname": "EightyEightShellAP",
+      "price": 77
+    },
+    {
+      "abr": "ancientcorticalstack",
+      "category": "Cortical stack",
+      "defname": "UT_AncientStack",
+      "price": 417
+    },
+    {
+      "abr": "arm",
+      "category": "Natural",
+      "defname": "UT_OrganicArm",
+      "price": 333
+    },
+    {
+      "abr": "automatedfcscomputer",
+      "category": "AMC Materials",
+      "defname": "FCSComputer",
+      "price": 333
+    },
+    {
+      "abr": "braintemplate(combat)",
+      "category": "Brain templates",
+      "defname": "UT_BrainTemplateCombat",
+      "price": 1333
+    },
+    {
+      "abr": "braintemplate(infiltrator)",
+      "category": "Brain templates",
+      "defname": "UT_BrainTemplateInfiltrator",
+      "price": 1333
+    },
+    {
+      "abr": "braintemplate(psycaster)",
+      "category": "Brain templates",
+      "defname": "UT_BrainTemplatePsycaster",
+      "price": 1333
+    },
+    {
+      "abr": "braintemplate(worker)",
+      "category": "Brain templates",
+      "defname": "UT_BrainTemplateWorker",
+      "price": 1333
+    },
+    {
+      "abr": "cncmachine",
+      "category": "Production",
+      "defname": "CNCmachine",
+      "price": 2025
+    },
+    {
+      "abr": "cncmodule",
       "category": "Misc",
-      "defname": "Zombrella",
-      "price": 3333
+      "defname": "CNCmodule",
+      "price": 1883
+    },
+    {
+      "abr": "compositeadvancedhelmet",
+      "category": "Headgear",
+      "defname": "Apparel_CompositeAdvancedHelmet",
+      "price": 1125
+    },
+    {
+      "abr": "compositealloy",
+      "category": "Raw resources",
+      "defname": "CompositeAlloy",
+      "price": 83
+    },
+    {
+      "abr": "compositeflakjacket",
+      "category": "Apparel",
+      "defname": "Apparel_CompositeFlakJacket",
+      "price": 5292
+    },
+    {
+      "abr": "compositeflakpants",
+      "category": "Apparel",
+      "defname": "Apparel_CompositeFlakPants",
+      "price": 4383
+    },
+    {
+      "abr": "compositeflakvest",
+      "category": "Apparel",
+      "defname": "Apparel_CompositeFlakVest",
+      "price": 3550
+    },
+    {
+      "abr": "compositemarinearmor",
+      "category": "Armor",
+      "defname": "Apparel_CompositePowerArmor",
+      "price": 10225
+    },
+    {
+      "abr": "compositemarinehelmet",
+      "category": "Headgear",
+      "defname": "Apparel_CompositePowerArmorHelmet",
+      "price": 3108
+    },
+    {
+      "abr": "corticalstack",
+      "category": "Cortical stack",
+      "defname": "UT_FilledCorticalStack",
+      "price": 1667
+    },
+    {
+      "abr": "ear",
+      "category": "Natural",
+      "defname": "UT_OrganicEar",
+      "price": 133
+    },
+    {
+      "abr": "emptycorticalstack",
+      "category": "Cortical stack",
+      "defname": "UT_EmptyCorticalStack",
+      "price": 1667
+    },
+    {
+      "abr": "eye",
+      "category": "Natural",
+      "defname": "UT_OrganicEye",
+      "price": 467
+    },
+    {
+      "abr": "leg",
+      "category": "Natural",
+      "defname": "UT_OrganicLeg",
+      "price": 333
+    },
+    {
+      "abr": "nose",
+      "category": "Natural",
+      "defname": "UT_OrganicNose",
+      "price": 125
+    },
+    {
+      "abr": "protectoratearmor",
+      "category": "Armor",
+      "defname": "UT_Apparel_ProtectorateArmor",
+      "price": 4392
+    },
+    {
+      "abr": "protectoratehelmet",
+      "category": "Headgear",
+      "defname": "UT_Apparel_ProtectorateArmorHelmet",
+      "price": 1683
+    },
+    {
+      "abr": "sleevecasket",
+      "category": "Furniture",
+      "defname": "UT_SleeveCasket",
+      "price": 808
+    },
+    {
+      "abr": "stomach",
+      "category": "Natural",
+      "defname": "UT_OrganicStomach",
+      "price": 667
+    },
+    {
+      "abr": "unmanned20mmflak38",
+      "category": "Security",
+      "defname": "UTurret_Flak38_Autocannon",
+      "price": 1125
+    },
+    {
+      "abr": "adrenalineribimplant",
+      "category": "Bionic",
+      "defname": "AdrenalineRib",
+      "price": 842
+    },
+    {
+      "abr": "advancedbionicear",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicEar",
+      "price": 1800
+    },
+    {
+      "abr": "advancedbioniceye",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicEye",
+      "price": 2542
+    },
+    {
+      "abr": "advancedbionicjaw",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicJaw",
+      "price": 2542
+    },
+    {
+      "abr": "advancedbionicspine",
+      "category": "Ultratech",
+      "defname": "AdvancedBionicSpine",
+      "price": 2542
+    },
+    {
+      "abr": "aichip",
+      "category": "Bionic",
+      "defname": "AIChip",
+      "price": 1517
+    },
+    {
+      "abr": "arm",
+      "category": "Natural",
+      "defname": "Arm",
+      "price": 1250
+    },
+    {
+      "abr": "artificialnose",
+      "category": "Prosthetic",
+      "defname": "ArtificialNose",
+      "price": 153
+    },
+    {
+      "abr": "auxiliaryai(agricultural)",
+      "category": "Ultratech",
+      "defname": "FarmerCore",
+      "price": 3217
+    },
+    {
+      "abr": "auxiliaryai(brawler)",
+      "category": "Ultratech",
+      "defname": "EPIA_AuxiliaryAI_Brawler",
+      "price": 4333
+    },
+    {
+      "abr": "auxiliaryai(commando)",
+      "category": "Ultratech",
+      "defname": "EPIA_AuxiliaryAI_Commando",
+      "price": 4333
+    },
+    {
+      "abr": "auxiliaryai(constructing)",
+      "category": "Ultratech",
+      "defname": "ConstructorCore",
+      "price": 3217
+    },
+    {
+      "abr": "auxiliaryai(diplomatic)",
+      "category": "Ultratech",
+      "defname": "DiplomatCore",
+      "price": 3217
+    },
+    {
+      "abr": "auxiliaryai(medical)",
+      "category": "Ultratech",
+      "defname": "DoctorCore",
+      "price": 3217
+    },
+    {
+      "abr": "auxiliaryai(mining)",
+      "category": "Ultratech",
+      "defname": "MinerCore",
+      "price": 3217
+    },
+    {
+      "abr": "auxiliaryai(sharpshooter)",
+      "category": "Ultratech",
+      "defname": "EPIA_AuxiliaryAI_Sharpshooter",
+      "price": 4333
+    },
+    {
+      "abr": "bionicjaw",
+      "category": "Bionic",
+      "defname": "BionicJaw",
+      "price": 1717
+    },
+    {
+      "abr": "bionicsworkbench",
+      "category": "Production",
+      "defname": "TableBionics",
+      "price": 1433
+    },
+    {
+      "abr": "blankribreplacement",
+      "category": "Bionic",
+      "defname": "SimpleRib",
+      "price": 583
+    },
+    {
+      "abr": "brainstimulator",
+      "category": "Prosthetic",
+      "defname": "BrainStimulator",
+      "price": 467
+    },
+    {
+      "abr": "coagulatorribimplant",
+      "category": "Bionic",
+      "defname": "CoagulatorRib",
+      "price": 1083
+    },
+    {
+      "abr": "coolingribimplant",
+      "category": "Bionic",
+      "defname": "CoolerRib",
+      "price": 675
+    },
+    {
+      "abr": "damagedscytherblade",
+      "category": "Manufactured",
+      "defname": "EPOE_DamagedScytherBlade",
+      "price": 33
+    },
+    {
+      "abr": "druggedribimplant",
+      "category": "Bionic",
+      "defname": "DruggedRib",
+      "price": 900
+    },
+    {
+      "abr": "ear",
+      "category": "Natural",
+      "defname": "Ear",
+      "price": 417
+    },
+    {
+      "abr": "exoskeletonsuit",
+      "category": "Ultratech",
+      "defname": "ExoskeletonSuit",
+      "price": 4067
+    },
+    {
+      "abr": "eyeball",
+      "category": "Natural",
+      "defname": "Eye",
+      "price": 667
+    },
+    {
+      "abr": "goldeneye",
+      "category": "Prosthetic",
+      "defname": "GoldenEye",
+      "price": 26
+    },
+    {
+      "abr": "heatingribimplant",
+      "category": "Bionic",
+      "defname": "HeaterRib",
+      "price": 675
+    },
+    {
+      "abr": "hookhand",
+      "category": "Prosthetic",
+      "defname": "HookHand",
+      "price": 31
+    },
+    {
+      "abr": "hydraulicjaw",
+      "category": "Prosthetic",
+      "defname": "HydraulicJaw",
+      "price": 383
+    },
+    {
+      "abr": "instinctoptimizingnanobots",
+      "category": "Organic optimizer",
+      "defname": "EPOE_InstinctOptimizingNanobots",
+      "price": 2033
+    },
+    {
+      "abr": "jaw",
+      "category": "Natural",
+      "defname": "Jaw",
+      "price": 417
+    },
+    {
+      "abr": "leg",
+      "category": "Natural",
+      "defname": "Leg",
+      "price": 1250
+    },
+    {
+      "abr": "lightreceptor",
+      "category": "Prosthetic",
+      "defname": "LightReceptor",
+      "price": 383
+    },
+    {
+      "abr": "ma-aichip",
+      "category": "Manufactured",
+      "defname": "EPOE_MAAI_Chip",
+      "price": 725
+    },
+    {
+      "abr": "medicalribimplant",
+      "category": "Bionic",
+      "defname": "MedicalRib",
+      "price": 967
+    },
+    {
+      "abr": "musclestimulator",
+      "category": "Bionic",
+      "defname": "MuscleStimulator",
+      "price": 1717
+    },
+    {
+      "abr": "neuro-cureframework",
+      "category": "Ultratech",
+      "defname": "NeurocureFramework",
+      "price": 1775
+    },
+    {
+      "abr": "neuromuscularframework",
+      "category": "Bionic",
+      "defname": "NeuromuscularFramework",
+      "price": 1133
+    },
+    {
+      "abr": "nose",
+      "category": "Natural",
+      "defname": "Nose",
+      "price": 167
+    },
+    {
+      "abr": "organicoptimizingnanobots",
+      "category": "Organic optimizer",
+      "defname": "EPOE_OrganicOptimizingNanobots",
+      "price": 1725
+    },
+    {
+      "abr": "painkillerribimplant",
+      "category": "Bionic",
+      "defname": "PainkillerRib",
+      "price": 1108
+    },
+    {
+      "abr": "prostheticworkbench",
+      "category": "Production",
+      "defname": "TableSimpleProsthetic",
+      "price": 475
+    },
+    {
+      "abr": "protectiveexoskeleton",
+      "category": "Ultratech",
+      "defname": "EPIA_ProtectiveExoskeleton",
+      "price": 4983
+    },
+    {
+      "abr": "replacementradius",
+      "category": "Prosthetic",
+      "defname": "ReplacementRadius",
+      "price": 169
+    },
+    {
+      "abr": "replacementspine",
+      "category": "Prosthetic",
+      "defname": "SimpleSpine",
+      "price": 433
+    },
+    {
+      "abr": "respirationribimplant",
+      "category": "Bionic",
+      "defname": "RespirationRib",
+      "price": 1558
+    },
+    {
+      "abr": "scytherblade",
+      "category": "Prosthetic",
+      "defname": "EPIA_ScytherBlade",
+      "price": 342
+    },
+    {
+      "abr": "silentjaw",
+      "category": "Bionic",
+      "defname": "SilentJaw",
+      "price": 1383
+    },
+    {
+      "abr": "steelarm",
+      "category": "Prosthetic",
+      "defname": "SteelArm",
+      "price": 173
+    },
+    {
+      "abr": "stomach",
+      "category": "Natural",
+      "defname": "Stomach",
+      "price": 833
+    },
+    {
+      "abr": "surrogatekidney",
+      "category": "Prosthetic",
+      "defname": "SurrogateKidney",
+      "price": 383
+    },
+    {
+      "abr": "surrogateliver",
+      "category": "Prosthetic",
+      "defname": "SurrogateLiver",
+      "price": 383
+    },
+    {
+      "abr": "surrogatelung",
+      "category": "Prosthetic",
+      "defname": "SurrogateLung",
+      "price": 383
+    },
+    {
+      "abr": "surrogatestomach",
+      "category": "Prosthetic",
+      "defname": "SurrogateStomach",
+      "price": 383
+    },
+    {
+      "abr": "syntheticbone",
+      "category": "Bionic",
+      "defname": "EPIA_SyntheticBone",
+      "price": 329
+    },
+    {
+      "abr": "synthetickidney",
+      "category": "Bionic",
+      "defname": "SyntheticKidney",
+      "price": 1717
+    },
+    {
+      "abr": "syntheticliver",
+      "category": "Bionic",
+      "defname": "SyntheticLiver",
+      "price": 1717
+    },
+    {
+      "abr": "syntheticlung",
+      "category": "Bionic",
+      "defname": "SyntheticLung",
+      "price": 1717
+    },
+    {
+      "abr": "syntheticnanoprinter",
+      "category": "Production",
+      "defname": "TableOrgans",
+      "price": 1433
+    },
+    {
+      "abr": "synthetictissue",
+      "category": "Bionic",
+      "defname": "SyntheticSkin",
+      "price": 287
+    },
+    {
+      "abr": "tacticalbioniceye",
+      "category": "Ultratech",
+      "defname": "EPIA_TacticalBionicEye",
+      "price": 3300
+    },
+    {
+      "abr": "tacticalcorneaimplant",
+      "category": "Ultratech",
+      "defname": "TacticalCorneaImplant",
+      "price": 3217
+    },
+    {
+      "abr": "wake-upribimplant",
+      "category": "Bionic",
+      "defname": "WakeUpRib",
+      "price": 958
     }
   ],
-  "total": 1437
+  "total": 1579
 }
