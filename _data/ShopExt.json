@@ -61,9 +61,9 @@
       "degree": 0
     },
     {
-      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance.",
+      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
       "stats": [
-
+        "x200% global certainty loss factor"
       ],
       "conflicts": [
         "abrasive",
@@ -81,7 +81,7 @@
           "psychopath"
         ],
         "stats": [
-
+          "x200% global certainty loss factor"
         ]
       },
       "defName": "Kind",
@@ -155,7 +155,7 @@
     {
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
-
+        "x50% global certainty loss factor"
       ],
       "conflicts": [
 
@@ -171,7 +171,7 @@
 
         ],
         "stats": [
-
+          "x50% global certainty loss factor"
         ]
       },
       "defName": "Abrasive",
@@ -3773,7 +3773,43 @@
       "degree": -1
     },
     {
-      "description": "Timmy always saw their body as nothing more than a vessel for their mind. he does not care about the gender, age or looks of a body.",
+      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
+      "stats": [
+        "+10% pain shock threshold",
+        "-15% mental break threshold"
+      ],
+      "conflicts": [
+        "carefulshooter",
+        "trigger-happy",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "NewRatkinPlus",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "carefulshooter",
+          "trigger-happy",
+          "wimp"
+        ],
+        "stats": [
+          "+10% pain shock threshold",
+          "-15% mental break threshold"
+        ]
+      },
+      "defName": "Faith",
+      "name": "faith",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Everything Timmy cooks turns into Dark matter.",
       "stats": [
 
       ],
@@ -3785,7 +3821,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Ultratech: Altered Carbon Remastered",
+        "mod": "Kijin Race 2.0",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -3794,8 +3830,8 @@
 
         ]
       },
-      "defName": "UT_FreeMind",
-      "name": "freemind",
+      "defName": "IncompetentCook",
+      "name": "incompetentcook",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -3824,7 +3860,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 3000
     },
     {
       "data": {
@@ -3875,7 +3911,150 @@
       "defName": "Paniel_Race",
       "enabled": true,
       "name": "Paniel",
+      "price": 3500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+30% Flammability",
+          "+$3500 Market value",
+          "+5.00 Move speed",
+          "+40% Mental break threshold",
+          "+42.0C Maximum comfortable temperature",
+          "+10.0C Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+70 Carrying capacity",
+          "+55 Meat amount",
+          "+55 Leather amount",
+          "+80% Pain shock threshold",
+          "+130.00% Negotiation ability",
+          "+120% Sell price multiplier",
+          "+120.00% Social impact",
+          "+110% Mechanoid shredding efficiency",
+          "+110% Mechanoid shredding speed",
+          "+100% Smelting speed",
+          "+90% Research speed",
+          "+70% Mining speed",
+          "+105% Butchery efficiency",
+          "+90% Butchery speed",
+          "+80.00% Food poison chance",
+          "+1.1 Cooking speed",
+          "+110% Rest rate multiplier",
+          "+80% Plant work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.",
+      "defName": "Kurin_Race",
+      "enabled": true,
+      "name": "Kurin",
+      "price": 6000
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+31.0C Maximum comfortable temperature",
+          "+6.0C Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+90% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+85.00% Negotiation ability",
+          "+107.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
+      "defName": "Ratkin",
+      "enabled": true,
+      "name": "Ratkin",
+      "price": 3500
+    },
+    {
+      "data": {
+        "stats": [
+          "+50.00 Mass",
+          "+100% Flammability",
+          "+$2000 Market value",
+          "+4.85 Move speed",
+          "+31.0C Maximum comfortable temperature",
+          "+6.0C Minimum comfortable temperature",
+          "+110% Immunity gain speed",
+          "+45 Carrying capacity",
+          "+70% Pain shock threshold",
+          "+80% Toxic sensitivity",
+          "+110% Eating speed",
+          "+35 Meat amount",
+          "+30 Leather amount",
+          "+1.2 Melee dodge chance",
+          "+118% Aiming time",
+          "+75.00% Negotiation ability",
+          "+95.00% Social impact",
+          "+110% Mining speed",
+          "+105% Mining yield",
+          "+110% Plant work speed",
+          "+115% Hunting stealth",
+          "+90% Construction speed",
+          "+80% Research speed",
+          "+85% Psychic sensitivity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "It is a human like a rodent gene. Although the origin is unknown, it is a monarchy society based on agricultural society. There are more female objects than males, and it is difficult to distinguish the gender of the object when viewed from the outside.",
+      "defName": "Ratkin_Su",
+      "enabled": false,
+      "name": "Ratkin subject",
       "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$1500 Market value",
+          "+120% Immunity gain speed",
+          "+5.00 Move speed",
+          "+200% Hunger rate multiplier",
+          "+200% Eating speed",
+          "+2.0 Cooking speed",
+          "+45.0C Maximum comfortable temperature",
+          "+150 Carrying capacity",
+          "+10.0 Melee dodge chance",
+          "+150% Global work speed",
+          "+3 Honor value",
+          "+50 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Kijins are ogres who were evolved alikes of humans. Their huge bodies and muscles have shrunk, but the muscles are more dense and stronger. They still have to eat a lot to keep themselves up.",
+      "defName": "Alien_Kijin",
+      "enabled": true,
+      "name": "Kijin",
+      "price": 3000
     }
   ]
 }
