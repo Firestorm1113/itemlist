@@ -60,12 +60,6 @@
     "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
@@ -76,6 +70,12 @@
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.3.842.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "CleaningArea",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "miyamiya",
@@ -108,6 +108,12 @@
     "version": null
   },
   {
+    "author": "Gloomylynx",
+    "name": "Gloomy Hair mk2",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Falconne",
     "name": "Heat Map",
     "steamId": null,
@@ -120,10 +126,22 @@
     "version": null
   },
   {
-    "author": "Igugf.Chocorofuru.Thaumoking.yrtwof.NetImmerse.Danaeri",
-    "name": "Lobotomy Corporation",
-    "steamId": "2374680306",
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "2.2.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "juanlopez2008",
+    "name": "LightsOut",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "UnlimitedHugs",
@@ -138,10 +156,10 @@
     "version": null
   },
   {
-    "author": "JonM0",
-    "name": "Medical System Expansion 2",
-    "steamId": null,
-    "version": null
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
   },
   {
     "author": "NotFood",
@@ -204,6 +222,24 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "legodude17 and  Oskar Potocki",
+    "name": "Vanilla UI Expanded",
+    "steamId": "2749945924",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -222,10 +258,16 @@
     "version": null
   },
   {
-    "author": "Vinzero",
-    "name": "Roppoi Hair - Upscaled",
-    "steamId": null,
-    "version": null
+    "author": "1trickPwnyta",
+    "name": "Say That Again",
+    "steamId": "2776179693",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
   },
   {
     "author": "dhultgren",
@@ -261,13 +303,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
+    "version": "6.2.0.7"
   },
   {
     "author": "Oskar Potocki,  Erin and  Sarg Bjornson",
@@ -276,52 +312,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and  Trunken",
-    "name": "Vanilla Apparel Expanded",
-    "steamId": "1814987817",
-    "version": "1.2.0"
-  },
-  {
-    "author": "Oskar Potocki,  xrushha and  SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
     "name": "Vanilla Armour Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Brewing Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson,  Chowder and  Trahspanda",
-    "name": "Vanilla Brewing Expanded - Coffees and Teas",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
     "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
+    "steamId": "2134308519",
+    "version": "1.3.7862.41411"
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
@@ -336,12 +336,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg Bjornson and  Oskar Potocki",
-    "name": "Vanilla Cooking Expanded - Sushi",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Kikohi and  Helixien",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
@@ -352,24 +346,6 @@
     "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": "2062943477",
-    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
@@ -402,50 +378,8 @@
     "version": "1.0.0.1"
   },
   {
-    "author": "Oskar Potocki,  AveryTheKitty and  Taranchuk",
-    "name": "Vanilla Weapons Expanded - Coilguns",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
     "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Laser",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Quickdraw",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Luizi and  xrushha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Grenades",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  SmashPhil",
-    "name": "Vanilla Weapons Expanded - Makeshift",
     "steamId": null,
     "version": null
   },
@@ -454,18 +388,6 @@
     "name": "Vanilla Weapons Expanded - Non-Lethal",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Tribal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
   },
   {
     "author": "Kiame Vivacity",
@@ -480,12 +402,6 @@
     "version": "1.3.0.1"
   },
   {
-    "author": "Aelanna",
-    "name": "Weapon Racks",
-    "steamId": "2788630748",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "pureMJ",
     "name": "While You Are Nearby",
     "steamId": "2784585275",
@@ -498,44 +414,26 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Poet",
-    "name": "[ZEN] Helixien Gas Architect Tab",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "1.8.0.0"
-  },
-  {
-    "author": "Helixien,  Taranchuk,  Saakra,  ISOREX and  OskarPotocki",
-    "name": "Ultratech: Altered Carbon Remastered",
-    "steamId": "2196278117",
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
     "version": "1.0.0.0"
   },
   {
-    "author": "Faryzal2020",
-    "name": "Absolutely More Cannons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "juanlopez2008",
-    "name": "LightsOut",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
+    "author": "Kiame Vivacity",
+    "name": "[KV] Show Hair With Hats or Hide All Hats",
+    "steamId": "1180826364",
     "version": "1.0.0.0"
   },
   {
-    "author": "Gloomylynx",
-    "name": "Gloomy Hair mk2",
+    "author": "Butterfish",
+    "name": "Hair Modding Plus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vinzero",
+    "name": "Roppoi Hair - Upscaled",
     "steamId": null,
     "version": null
   },
@@ -544,5 +442,59 @@
     "name": "Gloomy Hair - Upscaled",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YukiAiko",
+    "name": "No HAR Hairs on Humans",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seioch and  MaroonToon",
+    "name": "Kurin HAR Edition",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alias",
+    "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gloomylynx Nukafrog",
+    "name": "NewRatkinPlus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType Support",
+    "steamId": "1792668502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ssulunge",
+    "name": "Kijin Race 2.0",
+    "steamId": "1918120749",
+    "version": "1.0.0.0"
   }
 ]
