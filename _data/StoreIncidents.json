@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 3000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "tornados",
-		"price": 5000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -77,7 +67,7 @@
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
@@ -232,7 +222,7 @@
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,7 +262,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -367,7 +357,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 1200,
+		"price": 1750,
 		"karmatype": "Neutral"
 	},
 	{
@@ -426,15 +416,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 84
 }
